@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    background-color: #f2f2f2;
+    font-family: Arial;
+}
+
+.kalla {
+    background-color: #202d4d;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+.qol {
+    background-color: white;
+    text-align: center;
+    padding: 25px;
+}
+
+.qorin {
+    background-color: #76f0d0;
+    padding: 20px;
+}
+
+.qorin h2 {
+    color: green;
+    text-align: center;
+}
+
+.qorin p {
+    border-left: 3px solid blue;
+    padding: 8px;
+}
+
+.natijalar {
+    background-color: #ffe1b8;
+    padding: 20px;
+}
+
+.natijalar h2 {
+    color: red;
+    text-align: center;
+}
+
+.natijalar p {
+    border-left: 3px solid blue;
+    padding: 8px;
+}
+
+.oyoq {
+    background-color: #202d4d;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
